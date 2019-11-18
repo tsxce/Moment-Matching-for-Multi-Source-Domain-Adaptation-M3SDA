@@ -1,7 +1,7 @@
 # Team Member :
-- 謝忱(R06921088)
-- 張鈞(R07945044)
-- 周秉儒(R07922166)
+- 謝忱
+- 張鈞
+- 周秉儒
 
 ## 2019 Spring Final Project -- Multi-Source Domain Adaption
 A pytorch implementation of [Moment Matching for Multi-Source domain adaption](https://arxiv.org/pdf/1812.01754.pdf)
